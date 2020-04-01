@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: DrWill OpenWrt
+name: DrWill-OpenWrt
 
 on:
   release:
